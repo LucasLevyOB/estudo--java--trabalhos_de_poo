@@ -1,0 +1,1 @@
+*Algumas classes e métodos estão como públicos para poderem ser usados fora do pacote a que pertencem.
